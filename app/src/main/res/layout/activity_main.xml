@@ -10,7 +10,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="lmao"
+        android:text="oioioi"
         android:layout_gravity="center"
         android:gravity="center"
         android:id="@+id/et_1">
@@ -30,7 +30,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="stfu and laser my tits"
+        android:text="sou o botao um"
         android:id="@+id/bt_1">
 
     </Button>
@@ -38,7 +38,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="stfu and laser my penis"
+        android:text="sou o botao dois"
         android:id="@+id/bt_2">
 
     </Button>
@@ -46,7 +46,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="stfu and laser my vagina"
+        android:text="sou o botao tres"
         android:id="@+id/bt_3">
 
     </Button>
@@ -54,7 +54,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="stfu and laser my ass"
+        android:text="sou o botao quatro"
         android:id="@+id/bt_4">
 
     </Button>
